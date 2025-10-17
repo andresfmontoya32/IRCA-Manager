@@ -1,0 +1,31 @@
+# Sistema IRCA - Aerocivil
+# Dependencias requeridas para la aplicación Streamlit
+
+# Framework web
+streamlit>=1.28.0
+
+# Manipulación de datos
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Manipulación de documentos Word
+python-docx>=0.8.11
+
+# Visualización
+plotly>=5.15.0
+
+# Utilidades de archivos y rutas
+pathlib2>=2.3.7
+
+# Manejo de fechas
+python-dateutil>=2.8.2
+
+# Barras de progreso (usado en scripts originales)
+tqdm>=4.65.0
+
+# Proceso de subprocesos (subprocess ya incluido en Python)
+# psutil>=5.9.0  # Opcional para monitoreo de procesos
+
+# Utilidades adicionales
+typing-extensions>=4.7.0
